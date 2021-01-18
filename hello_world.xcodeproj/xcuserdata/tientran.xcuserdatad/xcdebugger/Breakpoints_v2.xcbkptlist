@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "F5F7AD58-16A9-451C-A8BC-5571DE6083AF"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0B40B091-C598-4426-9DA2-6E8193EEB305"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "hello_world/Controller/SignUpController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "accountTypeSegmentedControl"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "0B40B091-C598-4426-9DA2-6E8193EEB305 - 341cb318e718767c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; __C.UISegmentedControl in variable initialization expression of hello_world.SignUpController.(accountTypeSegmentedControl in _674D41460F5E996FBEA5A19DF68F164E) : __C.UISegmentedControl"
+                  moduleName = "hello_world"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tientran/source/swift/hello_world/hello_world/Controller/SignUpController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "25">
+               </Location>
+               <Location
+                  uuid = "0B40B091-C598-4426-9DA2-6E8193EEB305 - 16f19a28ef70e64a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "hello_world.SignUpController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; hello_world.SignUpController"
+                  moduleName = "hello_world"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tientran/source/swift/hello_world/hello_world/Controller/SignUpController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "877">
+               </Location>
+               <Location
+                  uuid = "0B40B091-C598-4426-9DA2-6E8193EEB305 - f0b59eb76199860d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "hello_world.SignUpController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;hello_world.SignUpController&gt;"
+                  moduleName = "hello_world"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tientran/source/swift/hello_world/hello_world/Controller/SignUpController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "818">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6FFBA077-0B50-4C50-81C2-7207B834C135"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "hello_world/Controller/SignUpController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "SignUpController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "6FFBA077-0B50-4C50-81C2-7207B834C135 - 473c11ac907b819d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "hello_world.SignUpController.(accountTypeContainerView in _674D41460F5E996FBEA5A19DF68F164E).getter : __C.UIView"
+                  moduleName = "hello_world"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tientran/source/swift/hello_world/hello_world/Controller/SignUpController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "221">
+               </Location>
+               <Location
+                  uuid = "6FFBA077-0B50-4C50-81C2-7207B834C135 - dd063e19ff325989"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "hello_world.SignUpController.(accountTypeContainerView in _674D41460F5E996FBEA5A19DF68F164E).setter : __C.UIView"
+                  moduleName = "hello_world"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tientran/source/swift/hello_world/hello_world/Controller/SignUpController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "164">
+               </Location>
+               <Location
+                  uuid = "6FFBA077-0B50-4C50-81C2-7207B834C135 - a01dcbf4da1e5e1b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "hello_world.SignUpController.(accountTypeContainerView in _674D41460F5E996FBEA5A19DF68F164E).modify : __C.UIView"
+                  moduleName = "hello_world"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tientran/source/swift/hello_world/hello_world/Controller/SignUpController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  uuid = "6FFBA077-0B50-4C50-81C2-7207B834C135 - 4a693f9f090bce31"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "hello_world.SignUpController.(accountTypeContainerView in _674D41460F5E996FBEA5A19DF68F164E).modify : __C.UIView with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "hello_world"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tientran/source/swift/hello_world/hello_world/Controller/SignUpController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  uuid = "6FFBA077-0B50-4C50-81C2-7207B834C135 - 16f19a28ef70fb13"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "hello_world.SignUpController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; hello_world.SignUpController"
+                  moduleName = "hello_world"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tientran/source/swift/hello_world/hello_world/Controller/SignUpController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "693">
+               </Location>
+               <Location
+                  uuid = "6FFBA077-0B50-4C50-81C2-7207B834C135 - f0b59eb761999b54"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "hello_world.SignUpController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;hello_world.SignUpController&gt;"
+                  moduleName = "hello_world"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tientran/source/swift/hello_world/hello_world/Controller/SignUpController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "634">
+               </Location>
+               <Location
+                  uuid = "6FFBA077-0B50-4C50-81C2-7207B834C135 - 8ec9b1ecac17c37a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; __C.UIView in hello_world.SignUpController.(accountTypeContainerView in _674D41460F5E996FBEA5A19DF68F164E).getter : __C.UIView"
+                  moduleName = "hello_world"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tientran/source/swift/hello_world/hello_world/Controller/SignUpController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "41">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
